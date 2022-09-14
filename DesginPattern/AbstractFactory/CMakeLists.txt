@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.0)
+project(AbstractFactory)
+Set(CMAKE_CXX_STANDARD 20)
+SET(CMAKE_CXX_STANDARD_REQUIRED true)
+add_executable(AbstractFactory main.cpp)
