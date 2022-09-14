@@ -1,3 +1,0 @@
-/Users/lishundong/Desktop/DesginPattern/SingletonTemplate/build/CMakeFiles/SingletonTemplate.dir
-/Users/lishundong/Desktop/DesginPattern/SingletonTemplate/build/CMakeFiles/edit_cache.dir
-/Users/lishundong/Desktop/DesginPattern/SingletonTemplate/build/CMakeFiles/rebuild_cache.dir
