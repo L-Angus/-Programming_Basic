@@ -32,8 +32,8 @@
 *.app
 
 *.DS_Store
-*/build/
-*/.idea/
-.vscode/
-.idea/
+*/build/*
+*/.idea/*
+.vscode/*
+.idea/*
 
