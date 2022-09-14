@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DataStructure_Alorithm"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/lishundong/Desktop/make future/DataStructure&amp;Alorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lishundong/Desktop/make\ future/DataStructure&amp;Alorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lishundong/Desktop/make\ future/DataStructure&amp;Alorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lishundong/Desktop/make\ future/DataStructure&amp;Alorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lishundong/Desktop/make\ future/DataStructure&amp;Alorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/lishundong/Desktop/make future/DataStructure&amp;Alorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lishundong/Desktop/make\ future/DataStructure&amp;Alorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lishundong/Desktop/make\ future/DataStructure&amp;Alorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lishundong/Desktop/make\ future/DataStructure&amp;Alorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lishundong/Desktop/make\ future/DataStructure&amp;Alorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/lishundong/Desktop/make future/DataStructure&amp;Alorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lishundong/Desktop/make\ future/DataStructure&amp;Alorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lishundong/Desktop/make\ future/DataStructure&amp;Alorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lishundong/Desktop/make\ future/DataStructure&amp;Alorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lishundong/Desktop/make\ future/DataStructure&amp;Alorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DataStructure_Alorithm">
+				<Option output="/Users/lishundong/Desktop/make future/DataStructure&amp;Alorithm/cmake-build-debug/DataStructure_Alorithm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lishundong/Desktop/make future/DataStructure&amp;Alorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lishundong/Desktop/make\ future/DataStructure&amp;Alorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 DataStructure_Alorithm"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lishundong/Desktop/make\ future/DataStructure&amp;Alorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lishundong/Desktop/make\ future/DataStructure&amp;Alorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lishundong/Desktop/make\ future/DataStructure&amp;Alorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DataStructure_Alorithm/fast">
+				<Option output="/Users/lishundong/Desktop/make future/DataStructure&amp;Alorithm/cmake-build-debug/DataStructure_Alorithm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lishundong/Desktop/make future/DataStructure&amp;Alorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lishundong/Desktop/make\ future/DataStructure&amp;Alorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 DataStructure_Alorithm/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lishundong/Desktop/make\ future/DataStructure&amp;Alorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lishundong/Desktop/make\ future/DataStructure&amp;Alorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lishundong/Desktop/make\ future/DataStructure&amp;Alorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/lishundong/Desktop/make future/DataStructure&amp;Alorithm/main.cpp">
+			<Option target="DataStructure_Alorithm"/>
+		</Unit>
+		<Unit filename="/Users/lishundong/Desktop/make future/DataStructure&amp;Alorithm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
